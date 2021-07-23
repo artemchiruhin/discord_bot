@@ -1,0 +1,57 @@
+{
+    "coin": {
+        "name": "coin",
+        "description": "Введите данную команду, чтобы подбросить монетку",
+        "emoji": ":coin:"
+    },
+    "currency": {
+        "name": "currency",
+        "description": "Введите данную команду, чтобы узнать курс валют.\nВведите название валюты, чтобы получить её курс (**!currency UAH**)",
+        "emoji": ":moneybag:"
+    },
+    "help": {
+        "name": "help",
+        "description": "Введите данную команду, чтобы узнать все имеющиеся команды",
+        "emoji": ":gear:"
+    },
+    "invite": {
+        "name": "invite",
+        "description": "Введите данную команду, чтобы получить ссылку для приглашения",
+        "emoji": ":incoming_envelope:"
+    },
+    "joke": {
+        "name": "joke",
+        "description": "Введите данную команду, чтобы получить шутку",
+        "emoji": ":black_joker:"
+    },
+    "maniac": {
+        "name": "maniac",
+        "description": "Введите данную команду для игры в маньяка, укажите название канала и кол-во маньяков (**!maniac CS:GO 2**)",
+        "emoji": ":knife:"
+    },
+    "meme": {
+        "name": "meme",
+        "description": "Введите данную команду, чтобы получить смешную картинку",
+        "emoji": ":rofl:"
+    },
+    "ping": {
+        "name": "ping",
+        "description": "Введите данную команду, чтобы поиграть с ботом в пинг-понг",
+        "emoji": ":ping_pong:"
+    },
+    "rand": {
+        "name": "rand",
+        "description": "Введите данную команду, чтобы получить случайное двузначное число",
+        "emoji": ":slot_machine:"
+    },
+    "teams": {
+        "name": "teams",
+        "description": "Введите данную команду и название голосового канала, чтобы разделиться на команды (**!teams CS:GO**)",
+        "emoji": ":busts_in_silhouette:"
+    },
+    "weather": {
+        "name": "weather",
+        "description": "Введите данную команду, чтобы узнать прогноз погоды.\nЧтобы узнать погоду в конкретном городе, введите его название (**!weather moscow**)",
+        "emoji": ":white_sun_cloud:"
+    }
+}
