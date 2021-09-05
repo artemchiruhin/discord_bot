@@ -25,6 +25,8 @@ All commands start with "!", if you want to change the prefix, you need to edit 
 
 **!meme** - this command will send you a meme (but only in Russian)
 
+**!invite** - write it to get the invitation link
+
 ## Developer contacts
 [VK](https://vk.com/artem09521) 
 
