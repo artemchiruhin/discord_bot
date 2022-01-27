@@ -1,6 +1,7 @@
 # The Bot
 
-This is a bot for discord that was created with *NodeJS*
+This is a bot for discord that was created with *NodeJS*.
+
 If you want to use this bot, you have to get your token and write it in **config.js**
 ## Commands
 All commands start with "!", if you want to change the prefix, you need to edit **config.js**
@@ -17,7 +18,7 @@ All commands start with "!", if you want to change the prefix, you need to edit 
 
 **!currency (currency)** - write this to get the course of some currency to rubble
 
-**!teams (channel)** - this command will divide people which are jn channel on 2 teams to play any games
+**!teams (channel)** - this command will divide people which are in channel on 2 teams to play any games
 
 **!maniac (channel) (amount)** - this is a special command for playing maniac in CSGO
 
