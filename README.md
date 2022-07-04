@@ -29,8 +29,5 @@ All commands start with "!", if you want to change the prefix, you need to edit 
 **!invite** - write it to get the invitation link
 
 ## Developer contacts
-[VK](https://vk.com/artem09521) 
-
-[Instagram](https://instagram.com/artem_09521)
 
 Mail: artemchiruhin@bk.ru
