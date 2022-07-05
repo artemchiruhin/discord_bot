@@ -1,9 +1,9 @@
-# The Bot
+# :robot: The Bot
 
 This is a bot for discord that was created with *NodeJS*.
 
 If you want to use this bot, you have to get your token and write it in **config.js**
-## Commands
+## :speaking_head: Commands
 All commands start with "!", if you want to change the prefix, you need to edit **config.js**
 
 **!help** - write it to get the list of the commands
